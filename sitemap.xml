@@ -106,6 +106,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kt-1127.github.io/Chappy-GameCenter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kt-1127.github.io/Virtual-Energy-City/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kt-1127.github.io/Virtual-Measurement-and-Control-Lab/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kt-1127.github.io/chappy-Typing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kt-1127.github.io/View-switch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kt-1127.github.io/Information-Design/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kt-1127.github.io/Circuit-Navi/kairo-navi.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
